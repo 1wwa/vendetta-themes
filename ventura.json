@@ -1,16 +1,10 @@
 {
-    "name": "Midnight-Espresso",
-    "description": "Original theme made by kanned (karto) for AliucordKT, ported to Vendetta by Vodka Martini",
+    "name": "Ventura",
+    "description": "idk but its a dark blue theme, hope u like it.",
     "authors": [
         {
             "name": "lol",
             "id": "149646482432065537"
-        },
-
-        {
-            "name": "Vodka Martini",
-            "id": "1068030255455015013"
-          
         }
     ],
     "semanticColors": {

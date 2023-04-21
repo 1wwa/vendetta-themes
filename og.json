@@ -1,14 +1,14 @@
 {
-	name: Midnight;
-	description: Dark bluish theme (idk what im doing with my life.);
+	name:Lavender Heaven;
+	description: A theme made by Vodka;
 	authors: [ 
 	{
-			name: Its1wa;
-		  id: 149646482432065537;
+			name: Vodka Martini;
+		  id: 1068030255455015013;
 	}
 ],
 spec: 2;
-  "semanticColors": {
+semanticColors: {
     "ACTIVITY_CARD_BACKGROUND": [
       "#1e1f22",
       "#ffffff",

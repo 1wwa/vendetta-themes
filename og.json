@@ -1,4 +1,13 @@
 {
+	name: Midnight;
+	description: Dark bluish theme (idk what im doing with my life.);
+	authors: [ 
+	{
+			name: Its1wa;
+		  id: 149646482432065537;
+	}
+],
+spec: 2;
   "semanticColors": {
     "ACTIVITY_CARD_BACKGROUND": [
       "#1e1f22",
